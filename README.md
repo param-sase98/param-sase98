@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @param-sase98
 - 👀 I’m interested in Data Science, Big Data and Machine Learning
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on RDMS projects
+- 💞️ I’m looking to collaborate on RDBMS projects
 - 📫 How to reach me - comment on my projects through opening an issue.
 
 <!---
